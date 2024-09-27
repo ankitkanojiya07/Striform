@@ -7,5 +7,8 @@ Striform is a platform offering digital tools and software solutions designed to
 - Process automation solutions
 - Integration with business platforms
 
+## Technologies Use
+-Node Js,React Js,Zustand, Express, MongoDB
+
 ## Getting Started
 To explore the features, visit [Striform](https://striform.com).
